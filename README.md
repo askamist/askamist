@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://gravatar.com/avatar/bee69a2b969ba6d9ed96d5743a87fb8f?size=256" width="150" height="150" alt="SK Amarnath's GitHub Profile Picture" style="border-radius:50%;">
-<h1>Hey there! I'm SK Amarnath 👋</h1>
+<h1>Hey there! I'm S K Amarnath 👋</h1>
 <p>A Full Stack Developer with over a decade of experience, passionate about building robust web and mobile applications from concept to deployment. I love diving deep into code, architecting scalable systems, and leading awesome teams!</p>
 </div>
 
