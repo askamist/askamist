@@ -56,7 +56,7 @@ Here's a peek at some of the tools and technologies I enjoy working with:
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=askamist&theme=transparent" />
   </a>
   <a href="https://github.com/askamist">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onelots&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=askamist&theme=transparent" />
   </a>
 </p>
 
