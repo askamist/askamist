@@ -50,11 +50,15 @@ Here's a peek at some of the tools and technologies I enjoy working with:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-<!-- ### 📈 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=askamist&show_icons=true&theme=radical&hide_border=true" alt="SK Amarnath's GitHub Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=askamist&theme=radical&hide_border=true" alt="SK Amarnath's GitHub Streak">
-</div> -->
+### 📈 GitHub Stats
+<p align="center">
+  <a href="https://github.com/askamist">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=askamist&theme=transparent" />
+  </a>
+  <a href="https://github.com/askamist">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onelots&theme=transparent" />
+  </a>
+</p>
 
 ### 📬 Let's Connect!
 Feel free to reach out if you want to chat about tech, collaborate on a project, or just say hi!
